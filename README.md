@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h1 align="center">Hi 👋, I'm Yash Rajole</h1>
 <h3 align="center">
   Building the Future with Code 💻 | Vice President @ Webmaster Club, Sandip University | Web Dev & Open Source Enthusiast 🌐 |
   Creator of an Internship Platform for Students 🚀 | Exploring AI Agents, CodeIgniter & Android Development 📱 | Let’s Build & Grow Together!
