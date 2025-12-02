@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Rajole</h1>
 <h3 align="center">
-  💻 B.Tech CSE @ Sandip University | Vice President @ Webmaster Club  
+  💻 B.Tech CSE @ Sandip University | President @ Webmaster Club  
   🌐 Web Dev & Open Source Enthusiast | 🚀 Creator of Internship Platform  
   🤖 Exploring AI Agents, CodeIgniter, and Android Development
 </h3>
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science Engineering** student at *Sandip University*
-- 🛠️ Vice President of the **Webmaster Club** – building a collaborative tech community
+- 🛠️ President of the **Webmaster Club** – building a collaborative tech community
 - 🌐 Developer of [Internship Platform Website](https://github.com/Yashrajol/internship-platform)
 - 🌱 Currently learning: **AI Agents**, **CodeIgniter**, **Android Dev (Java/Kotlin)**
 - 🤝 Open to projects, hackathons, internships & mentorship opportunities
